@@ -1,7 +1,7 @@
 ## Olá! Me chamo Alini Silva  👋
 
-- Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, estou no 1° Semestre. 🌱 
-- Estudando Analise de dados
+- Atualmente, sou estudante de Tecnólogo em Análise e Desenvolvimento de Sistemas, estou no 1° Semestre. 🌱 
+- Estudando Análise de Dados, com foco em técnicas de manipulação e interpretação de dados.
 
 [![Alini Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alini-Silva&show_icons=true&theme=dracula)](https://github.com/Alini-Silva/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alini-Silva&layout=compact&show_icons=true&theme=dracula)](https://github.com/Alini-Silva/github-readme-stats)
