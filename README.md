@@ -1,4 +1,4 @@
-## Olá! Me chamo Alini Silva  👋
+## Olá! 👋
 🌱 Estudante de Tecnólogo em Análise e Desenvolvimento de Sistemas - 3° Semestre.  <br>
 - **Linguagens:** Java, Python, SQL.
 - **Frameworks:** Spring Boot, Flask, FastApi.
